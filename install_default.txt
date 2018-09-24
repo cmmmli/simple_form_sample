@@ -1,0 +1,5 @@
+SimpleForm 3 supports Bootstrap and Zurb Foundation 5. If you want a configuration that is compatible with one of these frameworks, then please re-run this generator with --bootstrap or --foundation as an option.
+      create  config/initializers/simple_form.rb
+       exist  config/locales
+      create  config/locales/simple_form.en.yml
+      create  lib/templates/erb/scaffold/_form.html.erb
